@@ -219,8 +219,8 @@ p {
 .about .content .imgbx {
   margin-left: 40px;
 }
-.about .content .imgbx img {
-  max-width: 100%;
+.about .content .imgbx p {
+  color: #fff;
 }
 .service .content {
   display: grid;
